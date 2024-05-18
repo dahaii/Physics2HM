@@ -1,6 +1,6 @@
 # Physics2HM
-Physics II Assignment: First of all, calculate the electric potential on the matrix. 
-Then we examine shooting movements. (My Choice)
+Physics II Assignment: First topic is calculate the electric potential on the matrix. 
+Second topic, we examine shooting movements. (My Choice)
 
 
 Emrullah Enes VAROL
